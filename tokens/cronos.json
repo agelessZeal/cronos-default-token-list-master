@@ -1,0 +1,82 @@
+[
+	{
+		"chainId": 25,
+		"address": "0x2D03bECE6747ADC00E1a131BBA1469C15fD11e03",
+		"symbol": "VVS",
+		"name": "VVSToken",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/aave.jpg"
+	},
+	{
+		"chainId": 25,
+		"address": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
+		"symbol": "USDC",
+		"name": "USD Coin",
+		"decimals": 6,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+	},
+	{
+		"chainId": 25,
+		"address": "0x66e428c3f67a68878562e79A0234c1F83c208770",
+		"symbol": "USDT",
+		"name": "Tether USD",
+		"decimals": 6,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+	},
+	{
+		"chainId": 25,
+		"address": "0xadbd1231fb360047525BEdF962581F3eee7b49fe",
+		"symbol": "CORNA",
+		"name": "CronaSwap Token",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x14A7B318fED66FfDcc80C1517C172c13852865De/logo.png"
+	},
+	{
+		"chainId": 25,
+		"address": "0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
+		"symbol": "WETH",
+		"name": "Wrapped Ether",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
+	},
+	{
+		"chainId": 25,
+		"address": "0x0914F50ebd9f8F78aABb4C10a42dCcE102061D39",
+		"symbol": "GCronos",
+		"name": "Gold Cronos",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x14A7B318fED66FfDcc80C1517C172c13852865De/logo.png"
+	},
+	{
+		"chainId": 25,
+		"address": "0x062E66477Faf219F25D27dCED647BF57C3107d52",
+		"symbol": "WBTC",
+		"name": "Wrapped BTC",
+		"decimals": 8,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+	},
+	{
+		"chainId": 25,
+		"address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+		"symbol": "WCRO",
+		"name": "Wrapped CRO",
+		"decimals": 18,
+		"logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/JENN.png"
+	},
+	{
+		"chainId": 25,
+		"address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+		"symbol": "BUSD",
+		"name": "Binance-Peg BUSD",
+		"decimals": 18,
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/busd.jpg"
+	},
+	{
+		"chainId": 25,
+		"address": "0x765277EebeCA2e31912C9946eAe1021199B39C61",
+		"decimals": 18,
+		"name": "Avalanche",
+		"symbol": "AVAX",
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/avax.jpg"
+	  }
+]
