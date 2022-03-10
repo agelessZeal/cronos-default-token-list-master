@@ -5,7 +5,7 @@
 		"symbol": "VVS",
 		"name": "VVSToken",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/aave.jpg"
+		"logoURI": "https://vvs.finance/images/tokens/0x2D03bECE6747ADC00E1a131BBA1469C15fD11e03.svg"
 	},
 	{
 		"chainId": 25,
@@ -22,6 +22,22 @@
 		"name": "Tether USD",
 		"decimals": 6,
 		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
+	},
+	{
+		"chainId": 25,
+		"address": "0x0d0b26a9cf00d379f0be817c8629dd210ec750b8",
+		"symbol": "GATE",
+		"name": "GATE",
+		"decimals": 18,
+		"logoURI": ""
+	},
+	{
+		"chainId": 25,
+		"address": "0x9aeA92C5E2715f4105D17Fe0462Cf4F3ED05B3C0",
+		"symbol": "xGATE",
+		"name": "xGATE",
+		"decimals": 18,
+		"logoURI": ""
 	},
 	{
 		"chainId": 25,
@@ -45,7 +61,7 @@
 		"symbol": "GCronos",
 		"name": "Gold Cronos",
 		"decimals": 18,
-		"logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/harmony/assets/0x14A7B318fED66FfDcc80C1517C172c13852865De/logo.png"
+		"logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fkrw.jpg"
 	},
 	{
 		"chainId": 25,
