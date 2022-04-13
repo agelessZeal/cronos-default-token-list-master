@@ -1,4 +1,4 @@
-# @sushiswap/default-token-list
+# @cronoswap/default-token-list
 
 This NPM module and GitHub repo contains the default token list used in the SushiSwap interface.
 
